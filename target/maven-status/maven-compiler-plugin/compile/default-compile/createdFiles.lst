@@ -1,9 +1,0 @@
-com\sprhib\controller\TeamController.class
-com\sprhib\dao\TeamDAO.class
-com\sprhib\model\Team.class
-com\sprhib\init\Initializer.class
-com\sprhib\controller\LinkController.class
-com\sprhib\init\WebAppConfig.class
-com\sprhib\service\TeamServiceImpl.class
-com\sprhib\dao\TeamDAOImpl.class
-com\sprhib\service\TeamService.class
