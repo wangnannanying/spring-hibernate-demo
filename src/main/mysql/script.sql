@@ -1,0 +1,6 @@
+CREATE TABLE teams (
+	id INT NOT NULL AUTO_INCREMENT,
+	name VARCHAR(45),
+	rating INT NOT NULL,
+	PRIMARY KEY (id)
+) ENGINE=InnoDB;
